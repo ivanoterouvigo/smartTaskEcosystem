@@ -1,18 +1,34 @@
 
 # <p align="center">STE Smart Task Ecosystem</p>
-Ecosistema inteligente de tareas y rutinas administradas por un entrenador basado en IA centrado en la mejora y tratamiento de la salud mental.
-Intelligent ecosystem of tasks and routines managed by an AI-based coach focused on mental health improvement and treatment.
-The repository shows the functions and integrations of an innovative ecosystem designed specifically for the elderly population, focused on the management of healthy routines and habits that incorporates:
-  -> Mental health exercises
-  -> Cognitive training
-  -> Orientation exercises
-  &
-  -> Depression screening (through Yesavage test)
-  -> Cognitive impairment (through Telephone Moca test).
 
+<p align="justify">Ecosistema inteligente de tareas y rutinas administradas por un entrenador basado en IA centrado en la mejora y tratamiento de la salud mental.</p>
+
+<p align="justify">Intelligent ecosystem of tasks and routines managed by an AI-based coach focused on mental health improvement and treatment.</p>
+
+<p align="justify">The repository shows the functions and integrations of an innovative ecosystem designed specifically for the elderly population, focused on the management of healthy routines and habits that incorporates:</p>
+
+<ol type="A">
+  <li>Administración </li>
+  <li>Perspectiva de Usuario </li>
+  <li>Logística </li>
+</ol>
+
+<ol>
+  <li>Mental health exercises</li>
+  <li>Cognitive training</li>
+  <li>Orientation exercises</li>
+  <li>Depression screening (through Yesavage test)</li>
+  <li>Cognitive impairment (through Telephone Moca test)</li>
+</ol>
 
 Referencias:
-Smart technology: Ecosystem, impacts, challenges and the path forward
+
+<ul>
+  <li><a href="[https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward](https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward)" target="_blank">Enlace</a>, Smart technology: Ecosystem, impacts, challenges and the path forward</li>
+  <li>Elemento 2</li>
+  <li>Elemento 3</li>
+</ul>
+
 https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward
 
 Digital Twin Coaching for Physical Activities: A Survey
