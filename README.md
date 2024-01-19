@@ -1,5 +1,7 @@
 
 # <p align="center">STE Smart Task Ecosystem</p>
+Ecosistema inteligente de tareas y rutinas administradas por un entrenador basado en IA centrado en la mejora y tratamiento de la salud mental.
+Intelligent ecosystem of tasks and routines managed by an AI-based coach focused on mental health improvement and treatment.
 The repository shows the functions and integrations of an innovative ecosystem designed specifically for the elderly population, focused on the management of healthy routines and habits that incorporates:
   -> Mental health exercises
   -> Cognitive training
