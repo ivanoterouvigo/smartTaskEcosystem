@@ -24,11 +24,18 @@
 Referencias:
 
 <ul>
-  <li><a href="[https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward](https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward)" target="_blank">Enlace</a>, Smart technology: Ecosystem, impacts, challenges and the path forward</li>
-  <li>Elemento 2</li>
-  <li>Elemento 3</li>
+  <li><a href="https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward" target="_blank">Enlace</a>, Smart technology: Ecosystem, impacts, challenges and the path forward</li>
+  <li><a href="https://www.mdpi.com/1424-8220/20/20/5936" target="_blank">Enlace</a>, Digital Twin Coaching for Physical Activities: A Survey</li>
+  <li><a href="https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/ficheros/National-Strategy-on-AI.pdf" target="_blank">Enlace</a>, Estrategia nacional para IA</li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0963868720300081" target="_blank">Enlace</a>, The strategic impacts of Intelligent Automation for knowledge and service work: An interdisciplinary review</li>
 </ul>
 
+
+
+
+
+
+Smart technology: Ecosystem, impacts, challenges and the path forward
 https://www.researchgate.net/publication/375543008_Smart_technology_Ecosystem_impacts_challenges_and_the_path_forward
 
 Digital Twin Coaching for Physical Activities: A Survey
